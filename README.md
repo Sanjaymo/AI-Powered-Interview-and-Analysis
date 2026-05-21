@@ -11,10 +11,13 @@
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-Real--Time-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
 [![Google Gemini](https://img.shields.io/badge/Google-Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-FF6B6B?style=for-the-badge)](https://ai-interviewer-frontend-murex.vercel.app/)
 
 <br/>
 
 > Practice job interviews through real voice conversations with an AI interviewer — anytime, anywhere.
+
+### 🚀 [Live Demo → ai-interviewer-frontend-murex.vercel.app](https://ai-interviewer-frontend-murex.vercel.app/)
 
 </div>
 
@@ -23,7 +26,7 @@
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
-- [Live Demo & Screenshots](#-live-demo--screenshots)
+- [Live Demo](#-live-demo)
 - [System Architecture](#-system-architecture)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
@@ -54,6 +57,21 @@
 - 📜 **Transcript Storage** — Every session is persisted to MongoDB for later review
 - 📊 **History & Reports** — Review past interviews with full transcript playback
 - 🔒 **Auth Flow** — Signup / login with session management
+
+---
+
+## 🚀 Live Demo
+
+> **Try it now, no setup required!**
+
+| | |
+|---|---|
+| 🌐 **URL** | [https://ai-interviewer-frontend-murex.vercel.app/](https://ai-interviewer-frontend-murex.vercel.app/) |
+| 🖥️ **Hosted on** | Vercel |
+| 🎤 **Best experience** | Chrome browser (required for voice recognition) |
+| 📋 **To get started** | Sign up → Pick a role → Hit **Start Interview** and speak! |
+
+> ⚠️ Make sure to use **Chrome** and **allow microphone access** when prompted for full voice functionality.
 
 ---
 
